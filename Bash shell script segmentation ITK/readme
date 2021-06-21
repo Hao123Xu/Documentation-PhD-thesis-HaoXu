@@ -5,4 +5,4 @@ Including:
 3. Volume fraction calculation and local thickness measurement.
 
 "Test_loop.sh": batch processing in a folder
-"Test.sh": is a bash shell script
+"Test.sh": is a bash shell script to segment bone and vessels in a 3D volume.
