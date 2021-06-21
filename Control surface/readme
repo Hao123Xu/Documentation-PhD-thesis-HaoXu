@@ -1,6 +1,6 @@
 This folder is about the generation of control surface images by measuring local phase asymmetry.
 
-To generate .mhd files for the later watershed process, there are 3 steps:
+To generate .mhd files for the later step of watershed segmentation:
 
 1. Calculate 3D local phase asymmetry using matlab program "Test_3D_LocalPhase_Asymmetry.m"
 2. Save the generated results of 3D local phase asymmetry as .mhd files using "Test_save_ControlSurface_mhd.ijm" (imagej Macro script)
