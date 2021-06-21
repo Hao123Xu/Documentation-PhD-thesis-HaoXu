@@ -1,3 +1,5 @@
 Degree Anisotropy (DA) was calculated based on the mean intercept length (MIL), ITK function.
 Fractal Dimension (FD) was calculated using 3D box counting method, Matlab program.
 Structural Model Index (SMI) was calculated using Ohser's method, ITK function.
+
+MIL=/data/id19/bones01/bones/program/linux_debian/bin/mil3d_plus
