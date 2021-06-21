@@ -1,0 +1,8 @@
+Statistical analysis is performed using R:
+
+- Test normality: Lilliefors test. 
+- Test homoscedasticity: Bartlett's test.
+- Test whether there is a significant difference across the groups: ANOVA test.
+- Test the effect sizes after ANOVA: Eta squared (η^2) (Albers and Lakens, 2018). 
+- Identify which group is significantly different from the other: Post-hoc Tukey’s HSD test.
+- Detect outliers: Grubbs's test.
