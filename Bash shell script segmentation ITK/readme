@@ -1,5 +1,5 @@
-This script was used to segment bone and vessels in 3D images
+This script was used to segment bone and vessels using ITK functions in ESRF cluster.
 Including:
 1. The generation of markers (vessels, bone, and background).
-2. Segmentation using marker controlled watershed on the generated control surface.
+2. Marker controlled watershed on the generated control surface.
 3. Volume fraction calculation and local thickness measurement.
